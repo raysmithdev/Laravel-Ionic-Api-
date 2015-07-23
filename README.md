@@ -1,3 +1,5 @@
 ## Api For Starter Ionic Api
 
-More to come real soon
+Building a Laravel Api to interact with a Ionic app.
+
+
