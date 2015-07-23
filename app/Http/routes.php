@@ -12,3 +12,9 @@ Route::get('/users', 'UsersController@getAllUsers');
 	Route::post('/check-if-username-exists', 'RegisterController@checkIfUsernameExists');
 	Route::post('/register-user', 'RegisterController@create');
 
+
+/*
+	Login a user
+*/
+
+	Route::post('/login-user', 'LoginController@loginUser');
