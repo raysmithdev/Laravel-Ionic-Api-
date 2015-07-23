@@ -5,3 +5,10 @@ Route::get('/', function () {
 });
 
 Route::get('/users', 'UsersController@getAllUsers');
+
+/*
+	Registering a user
+*/
+	Route::post('/check-if-username-exists', 'RegisterController@checkIfUsernameExists');
+	Route::post('/register-user', 'RegisterController@create');
+
