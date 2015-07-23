@@ -1,2 +1,3 @@
-# Laravel-Ionic-Api-
-Laravel Api for Ionic App
+## Api For Starter Ionic Api
+
+More to come real soon
